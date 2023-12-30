@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>MyDiary App Homepage</title>
+<title>VirtualDiary App Homepage </title>
 <link rel="stylesheet" href="<c:url value="/resources/styles/style.css"/>">
 </head>
 <body>
